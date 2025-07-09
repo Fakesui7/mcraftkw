@@ -256,7 +256,7 @@ export default function BoatDetails() {
       length: '36 FT',
       beam: '9 FT',
       draft: '3.2 FT',
-      fuelCapacity: '200 Gallons',
+      fuelCapacity: '800 Gallons',
       waterTank: '180 L',
       engines: 'Triple 300HP',
       cruisingSpeed: '40 mph',
